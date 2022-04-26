@@ -7,3 +7,11 @@ creación de repositorio de prueba
 blab
 blablab
 
+# aquí se agregan herramientas como
+# sql, python, otros
+
+#dentro de git
+
+# Crear nueva rama -> En github local -> current branch -> create branch
+
+
